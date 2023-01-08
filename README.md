@@ -12,7 +12,7 @@
 
 <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="50" height="50"></a>
 <a href="https://www.tableau.com/"><img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Emblem.png" width="55" height="50"></a>
-<a><img src="https://logodix.com/logo/2058857.png" width="100" height="50"></a>
+<a><img src="https://logodix.com/logo/2058857.png" width="55" height="50"></a>
 
 
 
