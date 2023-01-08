@@ -1,6 +1,6 @@
 
 <h2> IEEE stands for Institute of Electrical and Electronics Engineers</h2>
-<h3>|| I am a Junior Web editor at IEEE VESIT|| </h3>
+<h3>|| I am a Junior Web editor at IEEE VESIT || </h3>
 
 
 
