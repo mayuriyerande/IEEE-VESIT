@@ -12,7 +12,7 @@
 
 <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="50" height="50"></a>
 <a href="https://www.tableau.com/"><img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Emblem.png" width="55" height="50"></a>
-<a href=""><img src="[[[data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==](https://camo.githubusercontent.com/1971c0a4f776fb5351c765c37e59630c83cabd52/68747470733a2f2f7777772e707967616d652e6f72672f696d616765732f6c6f676f2e706e67)](https://writeabout.tech/wp-content/uploads/2019/07/pygame.png)](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv3L89mFSzDgSEzlNFQTa3qrfU2TTD9XcoHA&usqp=CAU)" width="100" height="50"></a>
+<a href=""><img src="[[[[data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==](https://camo.githubusercontent.com/1971c0a4f776fb5351c765c37e59630c83cabd52/68747470733a2f2f7777772e707967616d652e6f72672f696d616765732f6c6f676f2e706e67)](https://writeabout.tech/wp-content/uploads/2019/07/pygame.png)](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv3L89mFSzDgSEzlNFQTa3qrfU2TTD9XcoHA&usqp=CAU)](https://cms-assets.tutsplus.com/uploads/users/34/syllabuses/1245/preview_image/pygame.jpg)" width="100" height="50"></a>
 
 
 
